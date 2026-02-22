@@ -1,6 +1,5 @@
 import React from "react";
 
-import { readFile, writeFile } from "../helpers/file-helpers";
 import Censored from "../components/Censored/Censored";
 import HitCounter from "../components/HitCounter/HitCounter";
 
